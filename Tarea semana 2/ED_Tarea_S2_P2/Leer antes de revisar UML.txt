@@ -1,0 +1,6 @@
+No pude hacerlo en Visual Paradigm Comunnity porque al descargarlo,
+la descarga andaba super lenta, demasiada diria yo. O soy yo o son 
+los servidores. Intentaré descargarlo otro día.
+En concecuencia use Visual Paradigm online.
+Otra cosa. en VP online las clases abstractas se definen en cursiva,
+lo mismo con los metódos. (quizás ya lo sabía pero yo lo aprendí hace poco)
